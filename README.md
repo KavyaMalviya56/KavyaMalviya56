@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ </br>
+  </br>
+  <hr style="border:2px solid gray"> </hr>
+  <h1 align="left">My Trophies 😁</h1>
+<p align="left"> <a href="https://github.com/KavyaMalviya56"><img src="https://github-profile-trophy.vercel.app/?username=KavyaMalviya56" alt="KavyaMalviya56"/></a> </p>
+
+</br>
+</br>
