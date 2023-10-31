@@ -11,12 +11,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KavyaMalviya56&label=Profile%20views&color=0e75b6&style=flat" alt="KavyaMalviya56" /> </p>
 
+<h2> Hi, I'm Kavya Malviya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Student at <a href="http://www.dtu.ac.in">DTU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="#">....</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-- 👨‍💻 All of my projects are available at [myportfolio.me](myportfolio.me)
-
-- 📫 How to reach me **email@gmail.com**
-
-- 📄 Know about my experiences [drive.com](drive.com)
+[![Twitter: Kavya Malviya](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/Kavya Malviya)
+[![Linkedin: Kavya Malviya](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/Kavya Malviya/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/KavyaMalviya56)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
