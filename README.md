@@ -9,7 +9,7 @@
 </br>
 <h3 align="center">🐼 "Tech enthusiast on a 'panda'monium quest in the world of software engineering! 🐾 #BtechBites"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyamalviya56&label=Profile%20views&color=0e75b6&style=flat" alt="kavyamalviya56" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KavyaMalviya56&label=Profile%20views&color=0e75b6&style=flat" alt="KavyaMalviya56" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [myportfolio.me](myportfolio.me)
