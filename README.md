@@ -11,7 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyamalviya56&label=Profile%20views&color=0e75b6&style=flat" alt="kavyamalviya56" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavyamalviya56" alt="kavyamalviya56" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [myportfolio.me](myportfolio.me)
 
@@ -42,7 +41,7 @@
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
    </a>
 </p>
-<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anupammaurya6767&bg_color=FFFFFF&color=000000&line=FF8C00&point=F4C430&hide_border=false" alt="anupammaurya6767" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KavyaMalviya56&bg_color=FFFFFF&color=000000&line=FF8C00&point=F4C430&hide_border=false" alt="KavyaMalviya56" /> </p>
 <br>
   <p align="left"><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaMalviya56&layout=compact&langs_count=7&theme=dark" />&nbsp; </p>
 </div>
