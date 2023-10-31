@@ -30,5 +30,34 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavyamalviya56&show_icons=true&locale=en" alt="kavyamalviya56" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavyamalviya56&" alt="kavyamalviya56" /></p>
+<hr style="border:2px solid gray"> </hr>
+<div align="left">
+  <a href="https://github.com/anupammaurya6767"
+     <h2 align="center">My Contribution Streak !! :fire:</h2>
+
+<p align="center">
+   <a>
+   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KavyaMalviya56&theme=dark&hide_border=true"/>
+   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+   </a>
+</p>
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anupammaurya6767&bg_color=FFFFFF&color=000000&line=FF8C00&point=F4C430&hide_border=false" alt="anupammaurya6767" /> </p>
+<br>
+  <p align="left"><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaMalviya56&layout=compact&langs_count=7&theme=dark" />&nbsp; </p>
+</div>
+  </br>
+  </br>
+  <hr style="border:2px solid gray"> </hr>
+  <h1 align="left">My Trophies 😁</h1>
+<p align="left"> <a href="https://github.com/KavyaMalviya56"><img src="https://github-profile-trophy.vercel.app/?username=KavyaMalviya56" alt="KavyaMalviya56"/></a> </p>
+
+</br>
+</br>
+  <div>
+     
+  </div>
+  <hr style="border:2px solid gray"> </hr>
+<div align="left"><img src="https://github.com/KavyaMalviya56/KavyaMalviya56/blob/main/github-metrics.svg" /></div>
+</br>
 
